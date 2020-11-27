@@ -90,3 +90,7 @@ Heap： 可以迅速找到一堆数中的最大或最小值的数据结构
 二叉查找树(Binary Search Tree)
     如何构建一棵二叉查找树？如何插入的？插入算法怎么实现的？
     
+1、clarification
+2、possible solutions --> optimal (time & space)
+3、code
+4、test cases
