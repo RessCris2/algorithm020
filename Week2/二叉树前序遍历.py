@@ -1,5 +1,4 @@
  # 前序遍历
- # 01 迭代法
 class Solution(object):
     def preorderTraversal(self, root):
         """
@@ -19,4 +18,3 @@ class Solution(object):
 
         return res
 
-# 02 迭代法
