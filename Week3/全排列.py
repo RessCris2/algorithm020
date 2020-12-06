@@ -1,4 +1,3 @@
-```python
 def permute(nums):
     def backtrack(index):
         
@@ -18,4 +17,3 @@ def permute(nums):
     res = []
     comb = []
     return backtrack(0)
-```
